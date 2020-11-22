@@ -1,0 +1,10 @@
+{
+    "id": "simple wumpus world",
+    "size": [8, 8],
+    "hunters": [[0, 0, "N"]],
+    "pits": [],
+    "wumpuses": [0,1],
+    "exits": [[0, 0]],
+    "golds": [[3, 3]],
+    "blocks": []
+   }
